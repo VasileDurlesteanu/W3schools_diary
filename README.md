@@ -8,6 +8,6 @@ need to edit and add from notes
 v
 have to edit
 
-v
+
 04.11.2021 JS arrays
 
