@@ -5,7 +5,8 @@ need to edit and add from notes
 
 
 11.10.2021 learned some stuff, edit later
-v
+  
+
 have to edit
 
 
