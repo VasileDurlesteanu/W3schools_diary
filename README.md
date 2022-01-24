@@ -10,4 +10,4 @@ need to edit and add from notes
 have to edit.
 
 
-04.11.2021 JS arrays
+04.11.2021 JS arrays.
