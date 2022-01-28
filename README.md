@@ -11,4 +11,4 @@ have to edit.
 
 
 04.11.2021 JS arrays
-.
+
